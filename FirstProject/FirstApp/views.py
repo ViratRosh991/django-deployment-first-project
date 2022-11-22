@@ -133,7 +133,7 @@ def senddatetime(request):
         </head>
         <body>
             <center>
-                <h1>Welcome To Django-User...!!!</h1>
+                <h1>Welcome To Django User...!!!</h1>
                 <hr color='brown' width='80%'/>
                 <h2>Server-Date & Time :: </h2>
 				<hr color='brown' width='80%'/>
